@@ -1,5 +1,5 @@
 # SION stikomcli
-Ambil data sion.stikom-bali.ac.id dengan menggunakan Firefox Webdriver
+Ambil data sion.stikom-bali.ac.id memanfaatkan Firefox Webdriver dengan cli
 
 # Feature
 [08-05-2020]
